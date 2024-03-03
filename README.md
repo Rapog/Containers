@@ -1,2 +1,2 @@
 # Containers
-Couple containers
+Implementation vector, array, stack and queue containers with googletests. 
